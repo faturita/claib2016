@@ -1,0 +1,6 @@
+Version history for the IFMBE LaTeX2e package
+
+date      filename   version  action/reason/acknowledgements
+-----------------------------------------------------------------
+16.02.09  ifmbe.cls     1.0   first official release, version number 1.0
+

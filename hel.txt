@@ -1,0 +1,12 @@
+\subsection{BCI Model}
+----------------------------
+
+BCIs can be modeled as 
+
+$$
+y(n) = \mathcal{T} (X(n)) \eqno{(1)}
+$$
+
+where $ X(n) $ is the input signal (from the data acquisition hardware), $ \mathcal{T} $ is a transformation and finally $ y(n) $ is the actual control signal.  In its simplest scheme, some known cognitive pattern, produce a set of signals $ X(n) $ and the purpose of the BCI is to calculate some nonlinear transformation producing at least a 1-bit long  $ y(n) $ for us to determine the desired or induced cognitive situation.  This non-linear transformation can be further divided into well known functions like Signal Acquisition, Feature Extraction and Feature Translation/Classification. 
+
+---------------------------

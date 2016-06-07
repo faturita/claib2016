@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{c6}
+Wolpaw J., Wolpaw E.~W.. {\it Brain-computer interfaces: principles and
+  practice}.
+\newblock Oxford University Press 2011.
+
+\bibitem{c27}
+Hochberg , Serruya , Friehs , et al. Neuronal ensemble control of prosthetic
+  devices by a human with tetraplegia  {\it Nature. } 2006;442:164--171.
+
+\bibitem{c29}
+Wessberg , Stambaugh , Kralik , et al. Real-time prediction of hand trajectory
+  by ensembles of cortical neurons in primates  {\it Nature. }
+  2000;408:361--365.
+
+\bibitem{c98}
+Richard , Gentiletti . Plataforma Experimental de Interfaz Cerebro Computadora
+  Orientada al Control de Sillas de Ruedas  in {\it IV Latin American Congress
+  on Biomedical Engineering 2007, Bioengineering Solutions for Latin America
+  Health} (M{\"u}ller-Karger Carmen, Wong Sara, La~Cruz Alexandra. , eds.);18
+  of {\it IFMBE Proceedings}:1127-1130Springer Berlin Heidelberg 2008.
+
+\bibitem{c97}
+Diez , M{\"u}ller Torres, Mut , et al. Commanding a robotic wheelchair with a
+  high-frequency steady-state visual evoked potential based brain–computer
+  interface  {\it Medical Engineering And Physics. } 2013;35:1155 - 1164.
+
+\bibitem{c37}
+Min , Marzelli , Yoo . Neuroimaging-based approaches in the brain--computer
+  interface  {\it Trends in biotechnology. } 2010;28:552--560.
+
+\bibitem{c12}
+Liberczuk , Quintero-Rinc{\'o}n , Risk . Evaluaci{\'o}n de un mapa
+  Auto-Organizado aplicado a una Interfaz Cerebro Computadora  {\it IEEE
+  Latin-American Transactions. } 2012;2012.
+
+\bibitem{c55}
+Allison B.Z.. Toward Ubiquitous BCIs  in {\it Brain-Computer Interfaces}The
+  Frontiers Collection:357-387Springer Berlin Heidelberg 2010.
+
+\bibitem{c56}
+Nijboer , Bos Plass-Oude, Blokland , Wijkand~Farquhar . Design requirements and
+  potential target users for brain-computer interfaces – recommendations from
+  rehabilitation professionals  {\it Brain-Computer Interfaces. } 2014;1:50-61.
+
+\bibitem{c9}
+Szeliski Richard. {\it Computer vision: algorithms and applications}.
+\newblock Springer 2010.
+
+\bibitem{c61}
+Sanei , Leyman . EEG brain map reconstruction using blind source separation  in
+  {\it Statistical Signal Processing, 2001. Proceedings of the 11th IEEE Signal
+  Processing Workshop on}:233-236 2001.
+
+\bibitem{c11}
+Stopczynski , Stahlhut , Larsen , Petersen , Hansen . The smartphone brain
+  scanner: A portable real-time neuroimaging system  {\it PloS one. }
+  2014;9:e86733.
+
+\bibitem{c3}
+Sanei , Chambers . {\it EEG signal processing}.
+\newblock John Wiley \& Sons 2008.
+
+\bibitem{c51}
+Blankertz , Curio , Muller . Classifying single trial EEG: Towards brain
+  computer interfacing  {\it Advances in neural information processing systems.
+  } 2002;1:157--164.
+
+\bibitem{c52}
+Shibasaki , Hallett . What is the Bereitschaftspotential?  {\it Clinical
+  Neurophysiology. } 2006;117:2341--2356.
+
+\bibitem{c89}
+Bresenham J.~E.. Algorithm for Computer Control of a Digital Plotter  {\it IBM
+  Syst. J.. } 1965;4:25--30.
+
+\bibitem{c14}
+Lowe . Distinctive image features from scale-invariant keypoints  {\it
+  International journal of computer vision. } 2004;60:91--110.
+
+\bibitem{c20}
+Park , Jun . A simple and fast algorithm for K-medoids clustering  {\it Expert
+  Systems with Applications. } 2009;36:3336--3341.
+
+\bibitem{c16}
+Vedaldi , Fulkerson . Vlfeat: An Open and Portable Library of Computer Vision
+  Algorithms  in {\it Proceedings of the International Conference on
+  Multimedia}MM '10(New York, NY, USA):1469--1472ACM 2010.
+
+\end{thebibliography}
